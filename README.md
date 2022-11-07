@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CITEL
+- 👋 Hi, I’m @Silvanus
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on python,Django,Data science 
